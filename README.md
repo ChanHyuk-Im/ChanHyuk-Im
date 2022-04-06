@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanHyuk-Im&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanHyeok-Im&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanHyuk-Im)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanHyeok-Im)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ChanHyuk-Im/ChanHyuk-Im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
