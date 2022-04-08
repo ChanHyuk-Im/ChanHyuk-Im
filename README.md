@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanHyuk-Im&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanHyuk-Im&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
