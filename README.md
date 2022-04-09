@@ -1,6 +1,8 @@
 ### Hi there 👋
+#### I'm ChanHyeok-Im, developing good product in Korea🇰🇷.
 <hr>
 
+### Skills 💪
 #### Languages
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JSS&logoColor=black"/>
