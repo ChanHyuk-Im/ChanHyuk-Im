@@ -54,7 +54,6 @@
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=Eclipse Mosquitto&logoColor=white"/>
 </div>
 
