@@ -63,13 +63,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </div>
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanHyuk-Im&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
--->
+#### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanHyuk-Im&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanHyuk-Im&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
--->
+#### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanHyuk-Im&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ChanHyuk-Im/ChanHyuk-Im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
