@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm ChanHyeok-Im, developing good product in Korea🇰🇷.
-#### Major: Robotics🤖
+
 <hr>
 
 ### Skills 💪
